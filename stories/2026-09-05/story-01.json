@@ -1,0 +1,66 @@
+{
+  "id": "fe-20260905-01",
+  "title": "7 AI Projects Engineering Students Can Build in 2026",
+  "slug": "ai-projects-engineering-students-2026",
+  "description": "Seven practical AI engineering capstone ideas with clear prototypes, tools, and evaluation metrics for senior design students in 2026.",
+  "poster_portrait": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-05/assets/story01-poster.webp",
+  "target_url": "https://friedengineers.com/ai-senior-design-project-ideas/",
+  "cta_text": "Explore All 15 Ideas",
+  "publisher": "Fried Engineers",
+  "pages": [
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-05/assets/story01-01.webp",
+      "heading": "7 AI Projects You Can Actually Build in 2026",
+      "text": "Each solves a real engineering problem and gives you measurable results to defend.",
+      "alt": "Engineering students collaborating around AI, robotics, energy and safety prototypes in a university lab"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-05/assets/story01-02.webp",
+      "heading": "1. Predictive Maintenance",
+      "text": "Use vibration, temperature and current data to predict faults or remaining useful life. Measure MAE, F1-score and detection lead time.",
+      "alt": "Student attaching diagnostic sensors to an industrial electric motor for predictive maintenance"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-05/assets/story01-03.webp",
+      "heading": "2. Smart-Grid Fault Detection",
+      "text": "Forecast demand or locate grid faults with Python or MATLAB. Test RMSE, fault recall and response time under changing loads.",
+      "alt": "Student analyzing an AI-enabled renewable smart-grid model with a highlighted electrical fault path"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-05/assets/story01-04.webp",
+      "heading": "3. Autonomous Delivery Rover",
+      "text": "Combine ROS 2, lidar, a camera and obstacle avoidance. Track navigation success, collisions, localization error and travel time.",
+      "alt": "Student-built autonomous indoor rover using lidar and computer vision to navigate a university corridor"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-05/assets/story01-05.webp",
+      "heading": "4. AI PPE and Hazard Detection",
+      "text": "Detect hard hats, safety vests and restricted-zone entry with edge vision. Evaluate precision, recall, mAP and alert latency.",
+      "alt": "Edge camera system detecting hard hats and safety vests in a construction safety test area"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-05/assets/story01-06.webp",
+      "heading": "5. Battery Health Predictor",
+      "text": "Estimate state of health and remaining life from voltage, current, temperature and charge cycles. Report SOH MAE and RUL error.",
+      "alt": "Engineering student measuring an electric vehicle battery pack for AI-based health prediction"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-05/assets/story01-07.webp",
+      "heading": "6. Adaptive Traffic Signals",
+      "text": "Train a reinforcement-learning controller in SUMO. Compare it with fixed timing using queue length, waiting time and throughput.",
+      "alt": "AI-controlled city intersection with adaptive traffic signals and visualized vehicle routes"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-05/assets/story01-08.webp",
+      "heading": "7. Engineering RAG Assistant",
+      "text": "Build an assistant grounded in manuals and maintenance logs. Measure retrieval accuracy, citation accuracy, latency and hallucinations.",
+      "alt": "Engineering student connecting technical manuals to a machine through a retrieval-augmented AI system"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-05/assets/story01-01.webp",
+      "heading": "Pick the Project You Can Prove",
+      "text": "Choose a real problem, a feasible prototype and metrics your team can measure. Complexity alone does not make a strong capstone.",
+      "alt": "Engineering team reviewing several AI capstone prototypes before selecting a testable project"
+    }
+  ]
+}
