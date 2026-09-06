@@ -1,0 +1,66 @@
+{
+  "id": "fe-20260906-01",
+  "title": "Find a Research Gap: 7 Moves That Work",
+  "slug": "find-a-research-gap-7-moves",
+  "description": "A practical seven-step workflow for finding and validating a defensible research gap with Google Scholar, Scopus, comparison tables, and careful AI assistance.",
+  "poster_portrait": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story01-poster.webp",
+  "target_url": "https://friedengineers.com/how-to-find-a-research-gap/",
+  "cta_text": "Read the Research Gap Guide",
+  "publisher": "Fried Engineers",
+  "pages": [
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story01-01.webp",
+      "heading": "Find a Defensible Research Gap in 7 Moves",
+      "text": "Turn a broad field into one specific limitation you can test—without claiming that nobody has studied it.",
+      "alt": "Graduate researcher narrowing a large collection of engineering literature into one focused research question"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story01-02.webp",
+      "heading": "1. Search With Real Terms",
+      "text": "Combine the problem, application and constraint. In Scholar, use phrases, date filters, Cited by and Related articles to reach relevant work.",
+      "alt": "Research scholar refining search terms and filters to narrow recent academic literature"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story01-03.webp",
+      "heading": "2. Build a Comparison Matrix",
+      "text": "For each paper, record the problem, dataset, method, baselines, metrics, result, limitation and future work.",
+      "alt": "Graduate research team organizing papers into a structured literature comparison matrix"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story01-04.webp",
+      "heading": "3. Hunt for Repeated Limits",
+      "text": "Look for reused datasets, weak baselines, class imbalance, missing real-world tests, high compute cost or poor robustness.",
+      "alt": "Researcher identifying repeated datasets and missing validation patterns across engineering papers"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story01-05.webp",
+      "heading": "4. Test the Gap Twice",
+      "text": "Run a broad search, then a narrow synonym-rich search in Scholar and Scopus. If recent work solves it, refine the dataset, condition or constraint.",
+      "alt": "Graduate researcher cross-checking a possible research gap across two scholarly databases"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story01-06.webp",
+      "heading": "5. Make AI Show Its Work",
+      "text": "Use AI to compare your notes—not invent evidence. Verify every citation, dataset, claim and limitation in the original paper.",
+      "alt": "Researcher checking an AI-assisted literature synthesis against original journal papers"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story01-07.webp",
+      "heading": "6. Write the Gap Precisely",
+      "text": "Use this structure: what exists, what remains limited, why it matters, and what your study will investigate.",
+      "alt": "Engineering team planning a precise missing bridge segment as a metaphor for a research gap"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story01-08.webp",
+      "heading": "7. Turn It Into an Experiment",
+      "text": "Define the dataset, baseline, proposed change, evaluation metrics and real condition that will test whether the gap matters.",
+      "alt": "Graduate scholar converting a literature gap into a measurable engineering experiment"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story01-01.webp",
+      "heading": "Run the Final Novelty Check",
+      "text": "Search again using your method, application, dataset and constraint. A defensible gap survives recent-paper review and leads to measurable objectives.",
+      "alt": "Graduate researcher completing a final evidence check before confirming a research topic"
+    }
+  ]
+}

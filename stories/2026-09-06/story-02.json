@@ -1,0 +1,66 @@
+{
+  "id": "fe-20260906-02",
+  "title": "Generative AI in Senior Design: 7 Rules",
+  "slug": "generative-ai-senior-design-rules",
+  "description": "Seven practical rules for using generative AI in an engineering capstone while preserving verification, safety, standards, evidence, and student ownership.",
+  "poster_portrait": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story02-poster.webp",
+  "target_url": "https://friedengineers.com/generative-ai-engineering-education/",
+  "cta_text": "Read the Engineering AI Guide",
+  "publisher": "Fried Engineers",
+  "pages": [
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story02-01.webp",
+      "heading": "Using Generative AI in Senior Design? Follow These 7 Rules",
+      "text": "AI can speed up exploration, code and documentation. Your team still owns every engineering decision and result.",
+      "alt": "Engineering capstone team using an AI assistant while building and testing a robotic prototype"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story02-02.webp",
+      "heading": "1. Explore, Don't Outsource",
+      "text": "Ask AI for design alternatives, then compare them against requirements, constraints, risks and trade-offs before choosing.",
+      "alt": "Mechanical engineering student comparing several AI-assisted thermal-system design alternatives"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story02-03.webp",
+      "heading": "2. Verify Equations and Units",
+      "text": "Re-derive critical steps, check dimensions, inspect assumptions and test boundary cases. A confident AI answer can still be wrong.",
+      "alt": "Electrical engineering student verifying equations and units with a calculator and laboratory instruments"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story02-04.webp",
+      "heading": "3. Test Every Line of Code",
+      "text": "Run unit tests, compare with a baseline, inspect edge cases and reproduce the output. Working once is not validation.",
+      "alt": "Engineering student testing AI-assisted control code against a robot and simulation"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story02-05.webp",
+      "heading": "4. Check Specs and Standards",
+      "text": "Verify components, ratings, tolerances and safety rules in official datasheets and applicable standards—not an AI summary.",
+      "alt": "Engineering team checking component specifications and safety standards against measured prototype data"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story02-06.webp",
+      "heading": "5. Keep an AI Decision Log",
+      "text": "Record prompts, useful outputs, rejected suggestions, human edits, tests and final decisions so your process remains explainable.",
+      "alt": "Capstone student documenting the traceable sequence from AI prompts to reviewed engineering decisions"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story02-07.webp",
+      "heading": "6. Protect Project Data",
+      "text": "Follow your university's policy. Do not upload confidential research, sponsor data, personal information or restricted designs without permission.",
+      "alt": "Engineering student protecting confidential project files before using an AI tool"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story02-08.webp",
+      "heading": "7. Defend the Trade-offs",
+      "text": "Be ready to explain why the design works, how you tested it, where it can fail and why you rejected the alternatives.",
+      "alt": "Student defending an AI-assisted engineering capstone with a tested prototype and evidence"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-06/assets/story02-01.webp",
+      "heading": "AI Assists. Engineers Decide.",
+      "text": "ABET's 2026–27 criteria still center design, standards, constraints, experimentation, communication, ethics and engineering judgment.",
+      "alt": "Capstone team taking ownership of an AI-assisted engineering design and its verified results"
+    }
+  ]
+}
