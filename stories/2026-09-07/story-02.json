@@ -1,0 +1,66 @@
+{
+  "id": "fe-20260907-02",
+  "title": "Build a Reliable IoT Project: 7 Decisions",
+  "slug": "reliable-iot-project-7-decisions",
+  "description": "Seven engineering decisions that turn an IoT idea into a testable, secure, power-aware, end-to-end prototype.",
+  "poster_portrait": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story02-poster.webp",
+  "target_url": "https://friedengineers.com/iot-project-development-engineering-students/",
+  "cta_text": "Read the Complete IoT Project Guide",
+  "publisher": "Fried Engineers",
+  "pages": [
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story02-01.webp",
+      "heading": "Building an IoT Project? Make These 7 Decisions",
+      "text": "A sensor plus an app is only a demo. A strong project connects a real problem to a reliable, secure and measurable system.",
+      "alt": "Engineering students demonstrating a connected smart-greenhouse prototype and mobile dashboard"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story02-02.webp",
+      "heading": "1. Define One Measurable Job",
+      "text": "Replace “smart agriculture” with a testable target: detect dry soil and trigger irrigation within a defined delay and moisture range.",
+      "alt": "Student narrowing a broad smart-agriculture idea to a measurable plant-watering problem"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story02-03.webp",
+      "heading": "2. Draw the Data Path",
+      "text": "Map sensor, edge controller, network, broker or API, storage, dashboard and actuator before buying parts. Mark every failure point.",
+      "alt": "Student mapping an IoT data path from soil sensor through controller and network to a dashboard"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story02-04.webp",
+      "heading": "3. Choose Parts From Specs",
+      "text": "Match sensor range and accuracy, controller interfaces, voltage, current, radio coverage, memory and environmental limits to the use case.",
+      "alt": "Engineering student comparing electronic sensors and components against technical specifications"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story02-05.webp",
+      "heading": "4. Build the Smallest Full Loop",
+      "text": "Start with one sensor reading, one transmitted message and one visible result. Prove the end-to-end path before adding features.",
+      "alt": "Student testing a minimal soil-sensor-to-dashboard IoT prototype on an electronics bench"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story02-06.webp",
+      "heading": "5. Engineer the Connection",
+      "text": "If you use MQTT, choose delivery quality deliberately. Test dropped packets, latency, reconnection, duplicate handling and offline behavior.",
+      "alt": "Student testing an IoT publish-subscribe connection under weak wireless conditions"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story02-07.webp",
+      "heading": "6. Add Security From Day One",
+      "text": "Use unique device identity, authenticated access, protected data, secure configuration and an update plan—not shared default credentials.",
+      "alt": "Student securing an IoT device with identity, access control and protected data connections"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story02-08.webp",
+      "heading": "7. Test Real Failure Modes",
+      "text": "Measure power use, sensor error, message delay and recovery. Then disconnect a sensor, weaken the network and drain the battery.",
+      "alt": "Student validating a smart greenhouse under low-battery, sensor-failure and weak-network conditions"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story02-01.webp",
+      "heading": "Make the Whole System Defensible",
+      "text": "Connect every component choice to a requirement and every performance claim to a measured test.",
+      "alt": "Engineering team reviewing a complete and testable smart-greenhouse IoT system"
+    }
+  ]
+}

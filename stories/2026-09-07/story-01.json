@@ -1,0 +1,66 @@
+{
+  "id": "fe-20260907-01",
+  "title": "Engineering Project Defense: 7 Moves to Prepare",
+  "slug": "engineering-project-defense-7-moves",
+  "description": "Seven practical moves to structure, rehearse, demonstrate, and defend an engineering project with clear evidence and confident answers.",
+  "poster_portrait": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story01-poster.webp",
+  "target_url": "https://friedengineers.com/engineering-project-defense-student-guide/",
+  "cta_text": "Read the Complete Defense Guide",
+  "publisher": "Fried Engineers",
+  "pages": [
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story01-01.webp",
+      "heading": "Defending an Engineering Project? Make These 7 Moves",
+      "text": "A strong defense proves that you understand the problem, the design decisions, the evidence and the limits—not just the slides.",
+      "alt": "Engineering student presenting a working rover prototype to a faculty evaluation panel"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story01-02.webp",
+      "heading": "1. Decode the Rubric First",
+      "text": "Confirm the time limit, required sections, demo rules and scoring criteria. Build for your department's actual expectations.",
+      "alt": "Engineering student reviewing a project-defense rubric beside a presentation timer"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story01-03.webp",
+      "heading": "2. Tell One Engineering Story",
+      "text": "Move cleanly from problem and requirements to method, prototype, tests, results and conclusion. Each section should answer why the next was needed.",
+      "alt": "Student explaining a clear problem-to-method-to-results sequence for an engineering rover project"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story01-04.webp",
+      "heading": "3. Replace Text With Evidence",
+      "text": "Use one readable chart, schematic or test image per claim. Label axes, units, baselines and test conditions so the result can be judged.",
+      "alt": "Engineering presenter using a clear chart and rover schematic instead of dense slide text"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story01-05.webp",
+      "heading": "4. Design a Fail-Safe Demo",
+      "text": "Rehearse the live sequence, preload files, charge hardware and record a backup video. A failed connection should not erase your evidence.",
+      "alt": "Student operating a rover demonstration with a backup test video ready on a laptop"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story01-06.webp",
+      "heading": "5. Run a Hostile Mock Q&A",
+      "text": "Ask teammates to challenge assumptions, component choices, baselines, unexpected results, safety, ethics and alternative designs.",
+      "alt": "Engineering team conducting a demanding mock question-and-answer session around a rover prototype"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story01-07.webp",
+      "heading": "6. Own the Limitations",
+      "text": "State what the project does not prove, then show the evidence you do have. Never invent an answer; explain how you would verify it.",
+      "alt": "Student answering an examiner while pointing to measured results and uncertainty on a chart"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story01-08.webp",
+      "heading": "7. Rehearse Against the Clock",
+      "text": "Practice the full talk, transitions, demo and Q&A aloud. Cut material until you can finish calmly with time to spare.",
+      "alt": "Engineering student timing a final rehearsal with notes, prototype and backup laptop prepared"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-07/assets/story01-01.webp",
+      "heading": "Defend Decisions, Not Just Slides",
+      "text": "Show the requirement, the choice, the test and the result. That is the chain examiners can question—and you can defend.",
+      "alt": "Prepared engineering student confidently presenting a tested rover prototype to examiners"
+    }
+  ]
+}
