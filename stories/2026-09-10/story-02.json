@@ -1,0 +1,66 @@
+{
+  "id": "fe-20260910-02",
+  "title": "Engineering Portfolio: 7 Proof Moves",
+  "slug": "engineering-portfolio-7-proof-moves",
+  "description": "Seven moves for building a focused engineering portfolio that proves decisions, contribution, technical ability and results.",
+  "poster_portrait": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story02-poster.webp",
+  "target_url": "https://friedengineers.com/engineering-portfolio-global-career-passport/",
+  "cta_text": "Read the Complete Portfolio Guide",
+  "publisher": "Fried Engineers",
+  "pages": [
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story02-01.webp",
+      "heading": "Building an Engineering Portfolio? Make These 7 Moves",
+      "text": "A resume lists skills. A strong portfolio shows what you built, why you chose it, how you tested it and what changed because of your work.",
+      "alt": "Engineering student curating a professional project portfolio beside a robot prototype"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story02-02.webp",
+      "heading": "1. Choose One Target Audience",
+      "text": "A professor, internship reviewer and hiring manager may value different evidence. Define the opportunity first, then select the story you need to prove.",
+      "alt": "Engineering student comparing audiences for graduate study, internship and employment"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story02-03.webp",
+      "heading": "2. Curate, Do Not Archive",
+      "text": "Choose a few strong, relevant projects that reveal different abilities. Remove weak repetition and lead with the work closest to your target role.",
+      "alt": "Student selecting the strongest engineering project evidence from many options"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story02-04.webp",
+      "heading": "3. Show the Engineering Story",
+      "text": "For every project, connect problem, requirements, constraints, decisions, build, tests, results and next steps. Make the reasoning easy to follow.",
+      "alt": "Engineering project shown as a sequence from problem sketch to prototype and test result"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story02-05.webp",
+      "heading": "4. State Your Exact Contribution",
+      "text": "For team projects, separate what the team delivered from what you designed, coded, tested or improved. Credit collaborators clearly.",
+      "alt": "Student identifying the subsystem he contributed to in a team robotics project"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story02-06.webp",
+      "heading": "5. Prove Skills in Context",
+      "text": "Do not only list CAD, Python or teamwork. Show the schematic, code decision, measurement, presentation or collaboration where each skill produced value.",
+      "alt": "Student selecting visual evidence of technical, testing, presentation and teamwork skills"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story02-07.webp",
+      "heading": "6. Make It Easy to Inspect",
+      "text": "Use clear navigation, readable images and working links. Add a concise README, demo and setup notes where code or hardware details matter.",
+      "alt": "Engineering student checking a clean digital portfolio across laptop and phone"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story02-08.webp",
+      "heading": "7. Tailor, Test and Update",
+      "text": "Reorder projects for each application, verify every link and update after meaningful work. Ask a mentor to review clarity before you submit.",
+      "alt": "Student tailoring and quality-checking an engineering portfolio before submission"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story02-01.webp",
+      "heading": "Let the Evidence Carry the Claim",
+      "text": "The strongest portfolio makes your role, decisions, process and results visible enough that a reviewer can judge the work quickly.",
+      "alt": "Confident engineering student with a curated portfolio and documented robot project"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "fe-20260910-01",
+  "title": "Build an AI/ML Research Project: 7 Rules",
+  "slug": "ai-ml-research-project-7-rules",
+  "description": "Seven rules for turning an AI/ML idea into a focused, fair, reproducible and evidence-led research project.",
+  "poster_portrait": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story01-poster.webp",
+  "target_url": "https://friedengineers.com/ai-ml-research-project-guidance/",
+  "cta_text": "Read the Complete AI/ML Research Guide",
+  "publisher": "Fried Engineers",
+  "pages": [
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story01-01.webp",
+      "heading": "Starting AI/ML Research? Follow These 7 Rules",
+      "text": "Strong research connects one measurable problem to suitable data, a fair baseline, controlled experiments and honest analysis.",
+      "alt": "Engineering student beginning an AI research project beside an edge camera prototype"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story01-02.webp",
+      "heading": "1. Start With the Problem",
+      "text": "Name the application, user, unresolved limitation and measurable outcome before choosing an algorithm. A field like computer vision is not yet a research question.",
+      "alt": "Engineering student narrowing a broad AI topic into one measurable research problem"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story01-03.webp",
+      "heading": "2. Prove the Gap With Literature",
+      "text": "Compare recent papers by data, method, baseline, metrics, findings and limits. Treat repeated weaknesses as leads—not automatic proof of novelty.",
+      "alt": "AI researcher comparing papers in a structured literature review matrix"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story01-04-v2.webp",
+      "heading": "3. Audit the Dataset First",
+      "text": "Check size, balance, duplicates, labels, representativeness, licensing and leakage risk. A complex model cannot rescue unsuitable evidence.",
+      "alt": "Student auditing the balance and quality of an image dataset for an AI experiment"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story01-05.webp",
+      "heading": "4. Establish a Fair Baseline",
+      "text": "Start with a simple relevant method, then compare stronger approaches under the same data split, preprocessing and evaluation conditions.",
+      "alt": "Engineering student comparing baseline and advanced AI model performance"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story01-06.webp",
+      "heading": "5. Keep the Test Set Sealed",
+      "text": "Split before learned preprocessing. Use training data to fit, validation data to choose, and the test set only for the final unbiased evaluation.",
+      "alt": "Student separating machine learning data into three distinct protected groups"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story01-07.webp",
+      "heading": "6. Measure the Error That Matters",
+      "text": "Accuracy alone may hide minority-class failures. Choose precision, recall, F1, AUC, latency or cost according to the real decision and constraint.",
+      "alt": "AI researcher examining a confusion matrix and multiple model evaluation measures"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story01-08.webp",
+      "heading": "7. Make Every Result Reproducible",
+      "text": "Record dataset version, splits, preprocessing, code, seeds, hyperparameters, library versions and hardware. Then analyze failures and limitations.",
+      "alt": "Student documenting reproducible AI experiments beside a tested edge device"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/assets/story01-01.webp",
+      "heading": "Research Is a Chain of Evidence",
+      "text": "Problem to gap. Gap to experiment. Experiment to result. Result to defensible contribution. Keep every link visible and testable.",
+      "alt": "Prepared engineering student reviewing a complete evidence-led AI research project"
+    }
+  ]
+}
