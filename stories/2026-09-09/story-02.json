@@ -1,0 +1,66 @@
+{
+  "id": "fe-20260909-02",
+  "title": "Choose Engineering Components: 7 Checks",
+  "slug": "engineering-component-selection-7-checks",
+  "description": "Seven checks for selecting compatible, available and testable components for an engineering student project.",
+  "poster_portrait": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story02-poster.webp",
+  "target_url": "https://friedengineers.com/selecting-engineering-project-components-decision-framework/",
+  "cta_text": "Read the Component Selection Guide",
+  "publisher": "Fried Engineers",
+  "pages": [
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story02-01.webp",
+      "heading": "Choosing Project Components? Run These 7 Checks",
+      "text": "The best part is not the most popular one. It is the part that meets your requirement, integrates safely and can be tested within your constraints.",
+      "alt": "Engineering student choosing sensors, controller, power module and enclosure for a prototype"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story02-02.webp",
+      "heading": "1. Start With Requirements",
+      "text": "List the function, operating environment, accuracy, speed, power, size, interfaces, budget and deadline before naming any component.",
+      "alt": "Engineer translating system requirements into component choices for a prototype"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story02-03.webp",
+      "heading": "2. Read the Official Datasheet",
+      "text": "Check recommended operating conditions, absolute maximums, accuracy, timing, package and temperature range. Never design around a marketplace summary.",
+      "alt": "Engineering student comparing an official component datasheet with the physical chip"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story02-04.webp",
+      "heading": "3. Prove the Power Budget",
+      "text": "Match voltage levels and calculate normal, startup and peak current. Include regulator losses, battery life and safe margin before connecting hardware.",
+      "alt": "Student checking voltage and current on a low-voltage electronics prototype"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story02-05.webp",
+      "heading": "4. Check Every Interface",
+      "text": "Verify electrical levels, connectors, pin count, protocols, libraries, drivers, dimensions and mounting. Compatible parts must work as one system.",
+      "alt": "Engineer checking electrical, communication and enclosure compatibility before assembly"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story02-06.webp",
+      "heading": "5. Design for the Real Environment",
+      "text": "Choose ratings for temperature, moisture, vibration, load and expected life. Then define how you will verify performance in that environment.",
+      "alt": "Engineering student testing an environmental sensor prototype in a controlled chamber"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story02-07.webp",
+      "heading": "6. Build a BOM With Alternatives",
+      "text": "Record manufacturer part number, quantity, supplier, price, stock and lead time. Pre-approve substitutes by matching the specifications that matter.",
+      "alt": "Student organizing a bill of materials with alternate electronic components and supply options"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story02-08.webp",
+      "heading": "7. Prototype the Riskiest Link",
+      "text": "Test the uncertain sensor, power stage or communication path before buying the full set. Measure against requirements, then freeze the design.",
+      "alt": "Engineering student measuring the riskiest electronics subsystem before final assembly"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story02-01.webp",
+      "heading": "Choose by Evidence, Then Build",
+      "text": "Trace every component to a requirement, datasheet value, interface check and test. That chain prevents expensive redesigns later.",
+      "alt": "Organized engineering workbench with verified components ready for a final prototype"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "id": "fe-20260909-01",
+  "title": "Plan an Engineering Thesis: 7 Critical Moves",
+  "slug": "engineering-thesis-planning-7-moves",
+  "description": "Seven practical moves to turn an engineering thesis idea into a feasible, ethical and evidence-led research plan.",
+  "poster_portrait": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story01-poster.webp",
+  "target_url": "https://friedengineers.com/engineering-thesis-planning-strategic-roadmap/",
+  "cta_text": "Read the Complete Thesis Guide",
+  "publisher": "Fried Engineers",
+  "pages": [
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story01-01.webp",
+      "heading": "Planning an Engineering Thesis? Make These 7 Moves",
+      "text": "A workable thesis links one important question to a feasible method, clear evidence, realistic milestones and an honest contribution.",
+      "alt": "Graduate engineering student mapping a thesis plan beside a prototype and research notes"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story01-02.webp",
+      "heading": "1. Define One Answerable Question",
+      "text": "State the problem, who it affects and what your work will test or build. If success cannot be measured, narrow the question again.",
+      "alt": "Graduate engineering student narrowing broad ideas into one precise research question"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story01-03.webp",
+      "heading": "2. Test Novelty and Feasibility",
+      "text": "Scan recent literature, then check access to data, equipment, software, skills and time. A smaller executable study beats an impressive impossible one.",
+      "alt": "Engineering researcher comparing literature with available laboratory equipment"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story01-04.webp",
+      "heading": "3. Build a What–Why–How Proposal",
+      "text": "Explain what you will contribute, why it matters and how you will evaluate it. Add related work, expected outcomes, milestones and references.",
+      "alt": "Graduate student outlining the problem, importance and method of an engineering thesis proposal"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story01-05.webp",
+      "heading": "4. Lock Method, Data and Ethics",
+      "text": "Connect every research question to a method, dataset and metric. Secure required safety, data or human-participant approval before collection begins.",
+      "alt": "Engineering researcher planning methodology and data collection beside a laboratory experiment"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story01-06.webp",
+      "heading": "5. Set Milestones With Buffer",
+      "text": "Schedule literature, setup, pilot tests, collection, analysis, writing and revision. Put contingency time before dependencies and submission—not after them.",
+      "alt": "Graduate researcher arranging milestone cards along a semester research timeline"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story01-07.webp",
+      "heading": "6. Agree a Supervisor Rhythm",
+      "text": "Choose a meeting cadence, send focused updates and record decisions. Bring results, blockers and the next decision—not only a progress summary.",
+      "alt": "Engineering supervisor and graduate student reviewing prototype evidence in a focused meeting"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story01-08.webp",
+      "heading": "7. Write While You Research",
+      "text": "Keep methods, figures, citations, decisions and limitations current. Early drafting exposes missing evidence while there is still time to collect it.",
+      "alt": "Graduate engineering student integrating thesis chapters, test evidence and revisions"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-09/assets/story01-01.webp",
+      "heading": "Plan the Evidence, Not Just the Deadline",
+      "text": "Your plan should show how each question becomes a method, each method produces evidence and that evidence supports a defensible conclusion.",
+      "alt": "Prepared graduate engineering student with a coherent thesis roadmap and research prototype"
+    }
+  ]
+}
