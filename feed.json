@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generated_at": "2026-09-10T02:53:27Z",
+  "generated_at": "2026-09-11T02:49:13Z",
   "stories": [
+    {
+      "manifest": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/story-02.json"
+    },
+    {
+      "manifest": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/story-01.json"
+    },
     {
       "manifest": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-10/story-02.json"
     },

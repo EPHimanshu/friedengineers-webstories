@@ -1,0 +1,66 @@
+{
+  "id": "fe-20260911-02",
+  "title": "Build an AI Project End to End: 7 Moves",
+  "slug": "ai-project-development-7-moves",
+  "description": "Seven practical moves for building a focused, leakage-safe, evaluated and deployable AI engineering project.",
+  "poster_portrait": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story02-poster.webp",
+  "target_url": "https://friedengineers.com/ai-project-development-guide-engineering-students/",
+  "cta_text": "Read the Complete AI Project Guide",
+  "publisher": "Fried Engineers",
+  "pages": [
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story02-01.webp",
+      "heading": "Building an AI Project? Make These 7 Moves",
+      "text": "The model is one component. A working project connects a measurable job, suitable data, fair evaluation, integration and testing in one reliable loop.",
+      "alt": "Engineering student connecting camera data, an AI model and a wheeled prototype end to end"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story02-02.webp",
+      "heading": "1. Define One Measurable Job",
+      "text": "Name the user, input, output, operating context and success measure. Remove features that do not help prove the smallest useful outcome.",
+      "alt": "AI engineering student selecting one measurable project objective from many ideas"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story02-03.webp",
+      "heading": "2. Audit and Prepare the Data",
+      "text": "Inspect coverage, labels, imbalance, duplicates, missing values, representativeness, licensing and privacy before trusting the dataset.",
+      "alt": "Student sorting and inspecting image data for quality, balance and duplicates"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story02-04.webp",
+      "heading": "3. Build a Simple Baseline",
+      "text": "Start with a heuristic or simple model that gives you a reference score and exposes pipeline problems. Add complexity only when evidence supports it.",
+      "alt": "Student choosing a simple AI baseline over an unnecessarily tangled model"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story02-05.webp",
+      "heading": "4. Train Without Leakage",
+      "text": "Split before learned preprocessing. Fit on training data, tune with validation data and reserve the test set for final unbiased evaluation.",
+      "alt": "AI engineer separating training, validation and sealed test data before processing"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story02-06.webp",
+      "heading": "5. Measure the Risk That Matters",
+      "text": "Choose metrics for the real decision: false alarms, missed detections, class imbalance, latency, memory or cost may matter more than headline accuracy.",
+      "alt": "Student testing an AI vision system across edge cases and multiple risk measures"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story02-07.webp",
+      "heading": "6. Integrate the Smallest Full Loop",
+      "text": "Connect sensing, preprocessing, inference and action in an API, app or edge device. Measure behavior under the hardware and timing constraints users will face.",
+      "alt": "Student integrating a camera, edge computer and autonomous wheeled robot"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story02-08.webp",
+      "heading": "7. Test, Monitor and Document",
+      "text": "Probe failure cases, bias, privacy and changing data. Record versions, setup, limitations and monitoring signals so another person can run and improve the system.",
+      "alt": "Engineering team testing AI camera failure cases and documenting a reproducible handoff"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story02-01.webp",
+      "heading": "Ship Evidence, Not Just a Model",
+      "text": "A convincing AI project proves the problem, data, model, evaluation and deployed behavior as one tested engineering system.",
+      "alt": "Confident engineering student reviewing a complete working AI project pipeline"
+    }
+  ]
+}

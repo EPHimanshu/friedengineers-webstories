@@ -1,0 +1,66 @@
+{
+  "id": "fe-20260911-01",
+  "title": "Choose Your Thesis Methodology: 7 Decisions",
+  "slug": "thesis-methodology-7-decisions",
+  "description": "Seven decisions for aligning thesis questions, evidence, research design, data collection, analysis, feasibility and ethics.",
+  "poster_portrait": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story01-poster.webp",
+  "target_url": "https://friedengineers.com/thesis-methodology-selection-guide/",
+  "cta_text": "Read the Complete Methodology Guide",
+  "publisher": "Fried Engineers",
+  "pages": [
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story01-01.webp",
+      "heading": "Choosing a Thesis Methodology? Make These 7 Decisions",
+      "text": "A defensible methodology shows how each research question becomes trustworthy evidence—not simply which technique sounds advanced.",
+      "alt": "Postgraduate engineering student connecting a research question to sensor evidence and a methodology pathway"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story01-02.webp",
+      "heading": "1. Start With the Research Question",
+      "text": "Define the phenomenon, context, objective and answer you need. Your method should serve that question; it should not force the question to fit a favorite tool.",
+      "alt": "Engineering student narrowing a broad thesis topic into one precise research question"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story01-03.webp",
+      "heading": "2. Decide What Evidence You Need",
+      "text": "Use quantitative evidence for measurable patterns, qualitative evidence for experiences and context, or mixed methods when both are needed to answer the question.",
+      "alt": "Researcher comparing quantitative, qualitative and mixed forms of engineering evidence"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story01-04.webp",
+      "heading": "3. Choose the Research Design",
+      "text": "Match experiment, simulation, survey or case study to the claim. A causal question needs different control and evidence than a descriptive or exploratory one.",
+      "alt": "Student comparing experiment, simulation, survey and case-study research designs"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story01-05.webp",
+      "heading": "4. Define Sampling and Collection",
+      "text": "Specify the population or test conditions, variables, sample logic, instruments, calibration and collection procedure before gathering results.",
+      "alt": "Student arranging samples, calibration tools and sensors for a data-collection plan"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story01-06-v2.webp",
+      "heading": "5. Plan the Analysis Before Collection",
+      "text": "Choose metrics, statistical tests or coding rules in advance. This checks whether the planned evidence can answer the question and reduces data-driven improvisation.",
+      "alt": "Engineering researcher planning analysis with abstract charts before collecting data"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story01-07.webp",
+      "heading": "6. Test Feasibility and Ethics",
+      "text": "Check time, equipment, skills, approvals, safety, privacy and consent. Pilot the hardest step early enough to revise the plan responsibly.",
+      "alt": "Student piloting a safe engineering study while participants review blank consent cards"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story01-08.webp",
+      "heading": "7. Justify and Document Every Choice",
+      "text": "Explain why each method fits, record limitations and document justified changes. Traceability makes the study easier to assess and reproduce.",
+      "alt": "Researcher documenting changes between two engineering test setups"
+    },
+    {
+      "image": "https://raw.githubusercontent.com/EPHimanshu/friedengineers-webstories/main/stories/2026-09-11/assets/story01-01.webp",
+      "heading": "Methodology Is a Traceable Argument",
+      "text": "Question to evidence. Evidence to design. Design to analysis. Keep every choice aligned, feasible, ethical and visible.",
+      "alt": "Prepared engineering student reviewing a complete and traceable thesis methodology"
+    }
+  ]
+}
